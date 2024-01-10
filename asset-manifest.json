@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/personal-web/static/css/main.11940de0.css",
+    "main.js": "/personal-web/static/js/main.56defe9e.js",
+    "static/media/gkbot.png": "/personal-web/static/media/gkbot.bb2fadfa2051db53266c.png",
+    "static/media/home_img.jpeg": "/personal-web/static/media/home_img.242cb26d29663912a0ab.jpeg",
+    "static/media/profilePic.jpeg": "/personal-web/static/media/profilePic.4cbfb4366822887546a0.jpeg",
+    "static/media/mail.svg": "/personal-web/static/media/mail.bdcfa3bd4b34aeeeee74e9ac639a4485.svg",
+    "static/media/github-mark-white.svg": "/personal-web/static/media/github-mark-white.97ed8e7eef60d61ca469881dd6f34511.svg",
+    "static/media/icons8-linkedin.svg": "/personal-web/static/media/icons8-linkedin.023ac3b7411e7fb5eb98fde0bdf3dad0.svg",
+    "index.html": "/personal-web/index.html",
+    "static/media/download-btn-icon.svg": "/personal-web/static/media/download-btn-icon.db00ff1fa6f1d172b12f9e1441c6d79c.svg",
+    "main.11940de0.css.map": "/personal-web/static/css/main.11940de0.css.map",
+    "main.56defe9e.js.map": "/personal-web/static/js/main.56defe9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11940de0.css",
+    "static/js/main.56defe9e.js"
+  ]
+}
