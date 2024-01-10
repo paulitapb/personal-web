@@ -1,6 +1,7 @@
 {
   "name": "portfolio-app-typescript",
   "version": "0.1.0",
+  "homepage": "https://paulitapb.github.io/personal-web",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
@@ -49,6 +50,7 @@
   },
   "devDependencies": {
     "@types/react-scroll": "^1.8.7",
+    "gh-pages": "^6.1.1",
     "tailwindcss": "^3.3.3"
   }
 }
